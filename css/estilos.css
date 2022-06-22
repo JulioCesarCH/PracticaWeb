@@ -1,0 +1,48 @@
+body {
+    margin:0;
+    padding:0;
+}
+.izquierda{
+    background: #FCD21D;
+    height: 50vh;
+    width: 20%;
+}
+.centro{
+    background: #fcfbf9;
+    height: 50vh;
+    width: 40%;
+}
+.derecha{
+    background: #fcfbf9;
+    height: 50vh;
+    width: 40%;
+}
+
+.encabezado2{
+    background: #fc1d1d;
+    height: 10vh;
+    width: 100%;
+}
+.izquierda2{
+    background: #1ddafc;
+    height: 50vh;
+    width: 30%;
+}
+.centro2{
+    background: #fcfbf9;
+    height: 50vh;
+    width: 40%;
+}
+.derecha2{
+    background: #24f3ae;
+    height: 50vh;
+    width: 30%;
+}
+
+#pantalla-dividida{
+    display:flex;
+}
+
+.tab {
+    tab-size: 6;
+}
